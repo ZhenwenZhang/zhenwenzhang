@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zhenwenzhang
-- 👀 I’m interested in Natural Language Processing and Affective Computing
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Natural Language Processing, Knowledge Graph and Affective Computing
+<!-- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 zhenwenzhang/zhenwenzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
