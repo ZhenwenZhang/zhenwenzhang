@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhenwenZhang
-- 👀 I’m interested in Natural Language Processing, Knowledge Graph and Affective Computing
+- 👀 I’m interested in Natural Language Processing, Social Media Processing and Affective Computing
 <!-- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
